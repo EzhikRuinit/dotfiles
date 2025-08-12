@@ -1,10 +1,19 @@
-# bedrockdots
-Dotfiles from my Bedrock Linux installation
+# dotfiles
+simple river dotfiles
 
-bar: waybar
-term: alacritty
-wm: hyprland
-shell: bash+starship
+wm: riverwm
+
+bar: yambar
+
+terminal: foot
+
+shell: zsh
+
+prompt: starship
+
+player: rmpc
+
+fetch: fastfetch
 
 preview:
-![image](https://github.com/user-attachments/assets/84e75efd-325b-4c63-84df-669ec00780c6)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/393cc833-0c15-42c8-b1c0-205138f5d845" />
