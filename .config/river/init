@@ -152,6 +152,7 @@ do
 done
 
 # Set background and border color
+riverctl rule-add ssd
 riverctl background-color 0x000000
 riverctl border-color-focused 0x89b4fa
 riverctl border-color-unfocused 0xffffff
